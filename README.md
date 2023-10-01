@@ -1,6 +1,8 @@
 # a51m-r2-5700m-hackintosh
 a51m-r2-5700m-hackintosh
 Hackintosh for alienware area 51m r2 with 5700m gpu, Soporta Bigsur, Monterey & Ventura
+Note:
+Support Ventura not work RealTek ALC215
 
 Especificaciones:
 
